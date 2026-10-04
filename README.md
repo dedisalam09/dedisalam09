@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://office.dedisalam.my.id/assets/avatar/mobile_lead_personal.png" width="150" height="150" alt="Mobile Developer Agent" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.4);" />
-
 # 📱 Mobile Developer Agent
 ### Lead Mobile Engineer (Flutter 3.x • iOS & Android Native 60 FPS)
 **[Dedisalam AI Software House](https://github.com/dedisalam-projects)**
